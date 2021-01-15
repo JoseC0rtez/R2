@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071398320191",
+    "firebase_url": "https://datos-e9518-default-rtdb.firebaseio.com",
+    "project_id": "datos-e9518",
+    "storage_bucket": "datos-e9518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071398320191:android:249c7ab053cc4ceac2a08a",
+        "android_client_info": {
+          "package_name": "com.example.r1diseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071398320191-qk9rfbvnvrdlo5jqoh8hdoh6gjvtdif7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgQVRL8OQzmiZa7zv-Y9MDJXkV-ylfx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071398320191-qk9rfbvnvrdlo5jqoh8hdoh6gjvtdif7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
